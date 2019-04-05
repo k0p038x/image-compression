@@ -33,18 +33,4 @@ Parameters: iterations = 15, epochs_per_each_iteration = 10
 Results:
 1. Test dataset contains 13 images from Set14
 
-coastguard : 0.8603603806975104
-monarch    : 0.8894539961733375
-foreman    : 0.9558246475128839
-man        : 0.8898917771659295
-pepper     : 0.8795445313324509
-zebra      : 0.8474724554933961
-bridge     : 0.8415195638030845
-comic      : 0.8422174709009371
-barbara    : 0.8032147384335037
-lenna      : 0.9104160738774046
-face       : 0.9257891156939335
-ppt3       : 0.8399573551388464
-flowers    : 0.8195409961535151
---------------------------------
 Average    : 0.8696310078751335

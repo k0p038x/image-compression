@@ -6,8 +6,7 @@ Training (edge.ipynb):
 3. To change the quality factor for JPEG codec, change the value of "QF"
 4. lr_dim, hr_dim denotes the dimensions of LR and HR images
 
-
-# To train the network, run python run_edge.py
+To train the network, run python run_edge.py
 
 Testing (test.ipynb):
 
@@ -16,7 +15,6 @@ Testing (test.ipynb):
 3. Output images will be stored in output_images folder
 4. Output : PSNR, SSIM
 
-
-# Output folder contains the output images of standard images
+Output folder contains the output images of standard images
 
 
